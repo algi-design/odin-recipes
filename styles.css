@@ -1,0 +1,23 @@
+#title, #subtitle, #subtitle{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title{
+    font-size: 32px;
+}
+
+#subtitle{
+    font-size: 26px;
+}
+
+#subsub{
+    font-size: 20px;
+}
+
+.recipe .descrip{
+    font-size: 14px;
+}
+
+.text{
+    font-size: 12px;
+}
