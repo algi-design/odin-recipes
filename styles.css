@@ -1,5 +1,7 @@
-#title, #subtitle, #subtitle{
+#title, #subtitle, #subsub{
     font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
 }
 
 #title{
