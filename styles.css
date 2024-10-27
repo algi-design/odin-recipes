@@ -1,11 +1,12 @@
+
+
 #title, #subtitle, #subsub{
     font-family: 'Times New Roman', Times, serif;
-    background-color: black;
-    color: white;
 }
 
 #title{
     font-size: 32px;
+    text-align: center;
 }
 
 #subtitle{
@@ -22,4 +23,12 @@
 
 .text{
     font-size: 12px;
+}
+
+section{
+    display: flex;
+    border-radius: 10px;
+    background-color: bisque;
+    margin: 10px 40px;
+    padding: 10px;
 }
